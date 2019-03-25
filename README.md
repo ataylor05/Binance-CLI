@@ -40,7 +40,7 @@ api_key: 987659123456789123456789123456789123456789
 api_secret: 98765789123456789123456789123456789123456789123456789
 ```
 <br><br>
-**binance.py - Lines 9 - 12**
+**binance.py - Lines 8 - 11**
 ```
 config = configparser.ConfigParser()
 config.read('creds.ini')
