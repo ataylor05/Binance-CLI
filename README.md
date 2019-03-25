@@ -2,7 +2,7 @@
 This project was started as a quick method to interact with Binance while traveling.  It covers a quick and easy method to set orders up from the API without of the GUI overhead.  This tool uses profiles of API credentials so it is easy to trade on multiple accounts.
 <br><br>
 **Script Screenshot**<br>
-![](https://github.com/ataylor05/Binance-CLI/blob/master/files/images/Binance_CLI.jpg)
+![](https://github.com/ataylor05/Binance-CLI/blob/master/files/Binance_CLI.jpg)
 
 
 ## Prerequisites
